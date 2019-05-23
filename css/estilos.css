@@ -37,7 +37,7 @@ li{
 }
 a{
     font-size: 30px;
-    margin-left: 230px;
+    margin-left: 100px;
     background-color: darkgoldenrod;
     padding: 20px;
     border-radius: 20px;
@@ -58,4 +58,14 @@ footer{
     padding-top: 17px;
     font-size: 20px;  
     font-style: italic;  
+}
+
+p{
+    width: 50%;
+    margin: auto;
+    padding-bottom: 20px;
+}
+h2{
+   text-align: center;
+   padding-top: 20px;
 }
