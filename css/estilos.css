@@ -40,5 +40,8 @@ a{
     margin-left: 230px;
     background-color: darkgoldenrod;
     padding: 20px;
+    border-radius: 20px;
 }
-
+h1{
+    color: white;
+}
