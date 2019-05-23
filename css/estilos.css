@@ -7,6 +7,7 @@
 header{
     background-color:rgb(57, 145, 245);
     height: 250px;
+    width: 100%;
 }
 
 .container-header{
@@ -21,3 +22,23 @@ header{
     float: left;
     text-align: center;
 }
+li,ol{
+    list-style: none;
+}
+nav{
+    width: 100%;
+    height: 50px;
+    background-color: rgb(53, 143, 11);
+    display: inline-block;
+}
+li{
+    display: inline;
+  
+}
+a{
+    font-size: 30px;
+    margin-left: 230px;
+    background-color: darkgoldenrod;
+    padding: 20px;
+}
+
